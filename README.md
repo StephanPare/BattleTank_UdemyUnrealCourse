@@ -1,2 +1,3 @@
-# BattleTank_UdemyUnrealCourse
-An open-world head-to-head tank fight with simple AI, terrain, and advanced control system in unreal 4.
+This game is being made following the Unreal developer course on Udemy, by Ben Tristem. Link [here](https://www.udemy.com/unrealcourse?couponCode=GitHubSpecial). 
+
+As such it will be similar to others made following the same course.
